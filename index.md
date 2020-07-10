@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/tdong185/tdong185.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To learn more about me, please visit my [LinkedIn.](https://www.linkedin.com/in/tracy-d-362180129/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks to GitHub Pages and [Jekyll](https://jekyllrb.com/) for allowing me to build and run on their repository.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### To Fill
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+highlighted box
 
 - Bulleted
 - List
@@ -23,7 +17,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/search?newwindow=1&tbm=isch&sxsrf=ALeKk01hz6bXTzbX3jstE3Hz5KeZ5_HmTg%3A1594410896750&source=hp&biw=1280&bih=693&ei=kMcIX5vEKuPrtQbvypawAQ&q=puppy&oq=puppy&gs_lcp=CgNpbWcQAzIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQMyBQgAELEDMgIIADIFCAAQsQMyBQgAELEDMgUIABCxAzIFCAAQsQM6CAgAELEDEIMBUJM5WJI_YMtAaABwAHgAgAE_iAGwApIBATWYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ved=0ahUKEwibzP64u8PqAhXjdc0KHW-lBRYQ4dUDCAc&uact=5#imgrc=G-AwJqgGSGTKpM)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
