@@ -1,21 +1,15 @@
 ## Welcome to my page
 
-To learn more about me, please visit my [LinkedIn.](https://www.linkedin.com/in/tracy-d-362180129/)
+To learn more about me, please visit my [LinkedIn].(https://www.linkedin.com/in/tracy-d-362180129/)
 
-Thanks to GitHub Pages and [Jekyll](https://jekyllrb.com/) for allowing me to build and run on their repository.
 
-### To Fill
+
+### Education
 
 ```markdown
-highlighted box
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- **Marlboro High School**: _2011 - 2015
+- **New York University**: _2015 - 2019; Computer Science and Finance
 
 ```
 
