@@ -41,7 +41,7 @@ To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/t
 - Served as a liaison between clients and building managers to resolve outstanding facility issues
 ```
 
-[**Marlin & Associates Boutique Investment Bank**](https://www.linkedin.com/company/marlin-&-associates/) \| *Investment Banking Intern* \| 2016 \| New York, NY 
+[**Marlin & Associates Investment Bank**](https://www.linkedin.com/company/marlin-&-associates/) \| *Investment Banking Intern* \| 2016 \| New York, NY 
 
 ```
 - Automated internal and external databases to create comparative sets to evaluate potential deal prospects
