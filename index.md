@@ -12,14 +12,14 @@ To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/t
 - Work closely with product groups to deliver tailored client solutions across the full product suite
 ```
 
-[**Chipotle**](https://www.linkedin.com/company/chipotle-mexican-grill/) | *Cashier* | 2019 | New York, NY 
+[**Chipotle**](https://www.linkedin.com/company/chipotle-mexican-grill) | *Cashier* | 2019 | New York, NY 
 
 ```
 - Assisted with morning pre-open routine, including preparing ingredients and restocking utensils
 - Managed cash register while cleaning and organizing dining area
 ```
 
-[**Quake Capital**](https://www.linkedin.com/company/quake-vc/) | *Junior Associate* | 2017 - 2018 | New York, NY 
+[**Quake Capital**](https://www.linkedin.com/company/quake-vc) | *Junior Associate* | 2017 - 2018 | New York, NY 
 
 ```
 - Judged and valued over 1,000 startups for the accelerator program during each cohort
