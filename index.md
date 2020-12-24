@@ -4,7 +4,7 @@ To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/t
 
 ### Experience
 
-[**BNP Paribas**](https://www.linkedin.com/company/bnp-paribas) | *Investment Banking Analyst* | 2018 - Present | New York, NY 
+[**BNP Paribas**](https://www.linkedin.com/company/bnp-paribas) <code>&#124;</code> *Investment Banking Analyst* | 2018 - Present | New York, NY 
 
 ```
 - Analyze company financial metrics via Excel models to determine credit profile and areas of growth
